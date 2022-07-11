@@ -1,1 +1,2 @@
-- [cv](https://lduktus.github.io/public-cv/)
+- [Public CV](https://lduktus.github.io/public-cv/)
+- [Medium](https://medium.com/@el_duktus)
