@@ -1,2 +1,2 @@
-- [Public CV](https://lduktus.github.io/public-cv/)
+- [Public CV](https://duktus.gitlab.io/pub-cv/cv-en.html)
 - [Medium](https://medium.com/@el_duktus)
